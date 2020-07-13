@@ -277,7 +277,8 @@ border: solid 2px;
      position: relative;
      background-color: white;
      border-radius: 15px;
-     color: black;
+     color: green;
+     background-color: yellowgreen;
      text-align: center;
  }
  

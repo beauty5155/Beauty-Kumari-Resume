@@ -152,7 +152,7 @@ $(document).ready(function () {
     }
     else if (project_count == 4) {
       $(".project_name").text("Web Application Development");
-      $(".project_content").text("DescriptionWeb application development is the process and practice of developing web applications. There is a consensus that the processes involved are extensions of standard software engineering processes.");
+      $(".project_content").text("Description Web application development is the process and practice of developing web applications. There is a consensus that the processes involved are extensions of standard software engineering processes.");
     }
   });
 

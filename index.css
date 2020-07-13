@@ -1,0 +1,283 @@
+body{
+    background-color: black;
+    border:solid grey 10px ; 
+    border-radius: 15px;
+}
+
+.h11{
+ /* border:solid olive;
+    text-align: center;*/
+    margin-left: 40px;
+    color: white; 
+ /* color: black; */
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.rangoli{
+    border:solid lightblue 5px;
+    padding:10px;
+    border-radius: 15px;
+}
+
+.main{
+position: relative;
+margin-bottom: 100px;
+max-width: 100%;
+}
+
+.title{
+    position:absolute;
+    top: 25%;
+    left:50%;
+    color: black;
+    font-size:70px;
+    font-weight:bolder;
+}
+
+.sub_title{
+    position:absolute;
+    top: 25%;
+    left:50%;
+    color: black;
+    font-size:20px;
+    font-weight: bold;  
+}
+.see_resume{
+    position:absolute;
+    top: 40%;
+    left:50%;
+    padding:10px 20px;
+    background-color: yellowgreen;
+    color:white;  
+  /* color: black;*/
+    font-size:20px;
+    font-weight:bold;
+    outline:none;
+    cursor:pointer;
+} 
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;  
+  /* color: black;*/
+    padding: 20px;
+}
+
+.specialization{
+    text-align: center;
+    position: relative;
+}
+
+.specialization_title{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: white; 
+ /*  color: black;*/
+}
+
+.img_spec{
+border-radius: 15px;
+border: solid red;
+margin-right: 20px;
+margin-top: 50px;
+}
+
+.java_name{
+    color: white;  
+    position: absolute;
+    left: 10%;
+    top: 50%;   
+}
+
+.java_prof{
+     position: absolute;
+     left: 10%;
+     top: 75%;
+    color: red;
+}
+
+.js_name {
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    color: white;
+}
+  
+.js_prof {
+    position: absolute;
+    left: 38%;
+    top: 75%;
+    color: red;
+}
+  
+.angular_name {
+    position: absolute;
+    left: 68%;
+    top: 50%;
+    color: white;
+   
+}
+  
+.angular_prof {
+    position: absolute;
+    left: 68%;
+    top: 75%;
+    color: red;
+   }
+  
+h2 {
+    font-weight: bold;
+    color:black;
+}
+
+.project{
+    border: solid violet 5px;
+    border-radius: 15px;
+padding:10px;
+}
+
+.project_title{
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    color: white; 
+  /*  color: black;*/
+  margin-bottom: 30px;
+}
+
+.project_img{
+    text-align: center;
+    border:solid violet 5px;
+}
+
+.prev{
+margin-bottom: 200px;
+border-radius: 15px;
+border: solid 2px;
+}
+
+.next{
+    margin-bottom: 200px;
+    border-radius: 15px;
+    border: solid 2px;
+    }
+  
+ .actual_img{
+     border-radius: 15px;
+ }   
+
+ .project_desc{
+     margin-left: 180px;
+ }
+
+ .project_content{
+     text-align: left;
+     color: white; 
+   /* color: black; */
+ }
+
+ .project_name{
+     text-align: left;
+     color: white; 
+  /* color: black; */
+     margin-left: 20px;
+ }
+
+ .img_container{
+    border-radius: 15px
+ }
+
+ .resume{
+    color: blueviolet;
+    text-align: center;
+    position: relative;
+    border: solid 5px;
+    background-color: black;
+    border-radius: 15px;
+}
+/*
+.resume_title{
+*/
+.resume_title{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: white; 
+/*  color: black; */
+}
+
+.img_resume{
+    border-radius: 15px;
+    border: solid red;
+    margin-right: 20px;
+    margin-top: 50px;
+    }
+    
+
+.X_name{
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    color: black;
+    background-color: orange;
+    border-radius: 15px;
+}
+  
+.X_marks {
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    color: black;
+    background-color: orange;
+    border-radius: 15px;
+   }
+
+   
+.XII_name{
+    position: absolute;
+    left: 38%;
+    top: 50%;
+    color:black;
+    background-color: orange;
+    border-radius: 15px;
+}
+  
+.XII_marks {
+    position: absolute;
+    left: 38%;
+    top: 75%;
+    color: black;
+    background-color: orange;
+    border-radius: 15px;
+   }
+
+   
+.bca_name{
+    position: absolute;
+    left: 68%;
+    top: 50%;
+    color:black;
+   background-color: orange;
+   border-radius: 15px;
+}
+  
+.bca_marks{
+    position: absolute;
+    left: 68%;
+    top: 75%;
+    color: black;
+    background-color: orange;
+    border-radius: 15px;
+   }
+
+ .contact_me {
+     position: relative;
+     background-color: white;
+     border-radius: 15px;
+     color: black;
+     text-align: center;
+ }
+ 

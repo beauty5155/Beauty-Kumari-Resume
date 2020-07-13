@@ -128,8 +128,7 @@ $(document).ready(function () {
   }
 
   $(".project_name").text("Project Development");
-  $(".project_content").text("Project management is the practice of leading the work of a team to achieve goals and meet success criteria at a specified time. The primary challenge of project management is to achieve all of the project goals within the given constraints.")
-
+  $(".project_content").text("Project development is the process and the facility of planning, organizing, coordinating, and controlling the resources to accomplish specific goals. The process takes a transportation improvement from concept through construction.")
   var project_count = 1;
 
   $(".next").click(function () {
@@ -141,7 +140,7 @@ $(document).ready(function () {
 
     if (project_count == 1) {
       $(".project_name").text(" Project Development");
-      $(".project_content").text("Project management is the practice of leading the work of a team to achieve goals and meet success criteria at a specified time. The primary challenge of project management is to achieve all of the project goals within the given constraints.")
+      $(".project_content").text("Project development is the process and the facility of planning, organizing, coordinating, and controlling the resources to accomplish specific goals. The process takes a transportation improvement from concept through construction.")  
     }
     else if (project_count == 2) {
       $(".project_name").text(" Project Management");
